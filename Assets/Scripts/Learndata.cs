@@ -26,10 +26,11 @@ public class Learndata : MonoBehaviour
     // 字串 : 保存文字資訊 string
     // 布林值 : 保存有 沒有 bool
 
-    int lv;
-    float exp;
-    string playername;
-    bool hasCureSkill;
+    int lv = 87;
+    float exp = 0.003f;
+    string playername = "201902@ff";
+    bool hasCureSkill = false ;
+    // bool has "true" or "false" two string
 
 }
 //LearmData 非類別成員區域
